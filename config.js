@@ -43,33 +43,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sig = 'https://www.instagram.com/faaaarr__'
+global.sgh = 'https://github.com/Faarz'
+global.sgc = 'https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '085692949920'
+global.povo = '085692949920'
+global.pgopay = '085692949920'
+global.ppulsa = '085692949920'
+global.ppulsa2 = '085692949920'
+global.psaweria = 'https://saweria.com/faarz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6281575900615'
+global.nomorown = '6285692949920'
+global.namebot = 'Asuna-Md'
+global.nameown = 'Farid'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['6285692949920'],
+  ['6281575900625'],
+  ['6285692949920'],
+  ['6285692949920', '❦ Farid Xfar', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Asuna BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Asuna-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Asuna-Md'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Asuna BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -175,7 +175,7 @@ global.dmenuf = '┗––––––––––✦' //footer
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
-global.cmenub = '┊✦ ' //body
+global.cmenub = '┊⫹⫺ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '✦' //pembatas menu selector
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nA\ns\nu\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
