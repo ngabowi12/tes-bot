@@ -22,11 +22,11 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *Nama RP:* Farid xfarz
 ${htjava} *Nama RL:* Farz
-${htjava} *Umur:* 20 Tahun
+${htjava} *Umur:* 18 Tahun
 ${htjava} *Kelas:* Big Boss
 ${htjava} *Status:* Couple
 
-${htjava} *Ulang Tahun:* 7 August 2001
+${htjava} *Ulang Tahun:* 7 August 
 ${htjava} *Alamat:* Indonesia, jawa Tengah, Purbalingga
 ${htjava} *Skills:* 
 > JavaScript [89.7%]
