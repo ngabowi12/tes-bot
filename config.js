@@ -58,7 +58,7 @@ global.ppulsa2 = '085692949920'
 global.psaweria = 'https://saweria.com/faarz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281575900615'
+global.nomorbot = '6285692949920'
 global.nomorown = '6285692949920'
 global.namebot = 'Asuna-Md'
 global.nameown = 'Farid'
@@ -67,7 +67,7 @@ global.nameown = 'Farid'
 /*============== STAFF ==============*/
 global.owner = [
   ['6285692949920'],
-  ['6281575900625'],
+  ['6281575900615'],
   ['6285692949920'],
   ['6285692949920', '❦ Farid Xfar', true]
   // [number, dia creator/owner?, dia developer?]
@@ -158,7 +158,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/3456faba4f4019fc85875.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
