@@ -266,7 +266,7 @@ const listMessage = {
   title: `${htki} *ASUNA BOT-MD* ${htka}`,
   buttonText: `LIST MENU ⎙`,
   sections
-}
+},{quoted:fgif}
   if (teks == '404') {
   	return conn.sendMessage(m.chat, listMessage)
     }
