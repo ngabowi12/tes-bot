@@ -252,19 +252,19 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 
 let usrs = db.data.users[m.sender]
 let tek = `✧
-┬ *${ucapan()}*
-│• *Name:* ${conn.getName(m.sender)}
-│• *Limit:* ${usrs.limit}
-│• *Status:* ${usrs.premiumTime > 1 ? 'Premium': 'Free'} ${usrs.premiumTime > 1 ? `
-│• *Expired:*
+❏═┅ *${ucapan()}*
+*››* *Name:* ${conn.getName(m.sender)}
+*››* *Limit:* ${usrs.limit}
+*››* *Status:* ${usrs.premiumTime > 1 ? 'Premium': 'Free'} ${usrs.premiumTime > 1 ? `
+*››* *Expired:*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
-┗━━━━━━━━━━━━━━━━┈─✥
+❏═┅═━═┅═━═━═━┈─✥
 `
 const listMessage = {
   text: tek,
   footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
-  title: `${htki} *LIST MENU* ${htka}`,
-  buttonText: `CLICK HERE ⎙`,
+  title: `${htki} *ASUNA BOT-MD* ${htka}`,
+  buttonText: `LIST MENU ⎙`,
   sections
 }
   if (teks == '404') {
@@ -469,13 +469,13 @@ const listMessage = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `🎀 ${namebot}`,
-                        url: 'https://kannxapi.herokuapp.com/'
+                        displayText: `MyWeb`,
+                        url: 'https://farz-api.herokuapp.com/'
                     }
                 },
                 {
                     urlButton: {
-                        displayText: '💌 Group Official',
+                        displayText: 'Group Official',
                         url: sgc
                     }
                 },
@@ -487,13 +487,13 @@ const listMessage = {
                 },
                 {
                     quickReplyButton: {
-                        displayText: '🐾 Speed',
+                        displayText: '☘️ Status',
                         id: '.ping'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: '📮 Donasi',
+                        displayText: '💰 Donasi',
                         id: '.donasi'
                     }
                 },
