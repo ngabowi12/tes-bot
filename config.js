@@ -157,15 +157,15 @@ global.dmenub2 = '*››* ' //body for info cmd on Default menu
 global.dmenuf = '❏═┅═━═━═━–•' //footer
 
 // COMMAND MENU
-global.dashmenu = '꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷'
-global.cmenut = '           『' //top
+global.dashmenu = '*꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷*'
+global.cmenut = '❏═┅═━═━『' //top
 global.cmenuh = '』              ' //header
-global.cmenub = '*࿊⃟🍟* ' //body
-global.cmenuf = ' ' //footer
+global.cmenub = '*࿊⃟⫹⫺* ' //body
+global.cmenuf = '❏═┅═━═━' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '✦' //pembatas menu selector
 
-global.htki = '『' //hiasan title kiri
+global.htki = '❏═┅═━═━『' //hiasan title kiri
 global.htka = '』' //hiasan title kanan
 global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
