@@ -1,18 +1,3 @@
-// M A D E  B Y  Letta - Sama 🐰  
-// Credits, jangan dihapus atau diubah!
-
-// - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • Xtreshe (Beban)
-// • Dll
-
-//[!] Jangan Dihapus, mending ditambahin 
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -119,7 +104,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Asuna-Md˘ฅ ꒱ ‧₊˚꒷︶�
 global.wm3 = '⫹⫺ Asuna-Md'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
+global.titlebot = `⫹⫺ AsunaBOT Whatsapp | By ${global.nameown}`
 global.author = '                「 Asuna BOT あ⁩ 」'
 
 
@@ -148,7 +133,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = '_Wait A Minute 🍂, Your Request In Proccess_'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -167,21 +152,21 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊•' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenub = '*››* ' //body
+global.dmenub2 = '*››* ' //body for info cmd on Default menu
+global.dmenuf = '❏═┅═━═━═━–•' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
-global.cmenut = '❏––––––『' //top
-global.cmenuh = '』––––––' //header
-global.cmenub = '┊⫹⫺ ' //body
-global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.dashmenu = '꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷꒷︶꒷꒥꒷'
+global.cmenut = '           『' //top
+global.cmenuh = '』              ' //header
+global.cmenub = '*࿊⃟🍟* ' //body
+global.cmenuf = ' ' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '✦' //pembatas menu selector
 
-global.htki = '––––––『' //hiasan title kiri
-global.htka = '』––––––' //hiasan title kanan
+global.htki = '『' //hiasan title kiri
+global.htka = '』' //hiasan title kanan
 global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
