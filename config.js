@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/faaaarr__'
-global.sgh = 'https://github.com/Faarz'
-global.sgc = 'https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sig = 'https://www.instagram.com/abityru24'
+global.sgh = 'https://github.com/abituru'
+global.sgc = 'https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w'
+global.sdc = 'wa.me/6288232154376'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085692949920'
-global.povo = '085692949920'
-global.pgopay = '085692949920'
-global.ppulsa = '085692949920'
-global.ppulsa2 = '085692949920'
-global.psaweria = 'https://saweria.com/faarz'
+global.pdana = '083812737630'
+global.povo = '_'
+global.pgopay = '_'
+global.ppulsa = '083812737630'
+global.ppulsa2 = '088232154376'
+global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285692949920'
-global.nomorown = '6285692949920'
-global.namebot = 'Asuna-Md'
-global.nameown = 'Farid'
+global.nomorbot = '48459063898'
+global.nomorown = '6288232154376'
+global.namebot = 'Yukino Bot'
+global.nameown = 'AbiXynz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285692949920'],
-  ['6281575900615'],
-  ['6285692949920'],
-  ['6285692949920', '❦ Farid Xfar', true]
+  ['48459063898'],
+  ['48459063898'],
+  ['6288232154376'],
+  ['6288232154376', '❦ abiXynz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Asuna BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Asuna-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Asuna-Md'
+global.wm = '                「 YUKINO BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘YUKINO BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ YUKINO'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ AsunaBOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Asuna BOT あ⁩ 」'
+global.titlebot = `⫹⫺ YUKINO Whatsapp | By ${global.nameown}`
+global.author = '                「 YUKINO BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -175,7 +175,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.stickpack = '.'
 global.stickauth = `☂︎\nA\ns\nu\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 69 // The higher, The harder levelup
 
 /*============== EMOJI ==============*/
 global.rpg = {
