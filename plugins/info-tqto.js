@@ -36,8 +36,8 @@ https://github.com/Ftwrr
 *❉ Rominaru:*
 https://github.com/Rominaru
 
-*❉ Kannachann:*
-https://github.com/Kannachann
+*❉ abiXynz:*
+https://github.com/abituru
 
 *❉ The.sad.boy01:*
 https://github.com/kangsad01
