@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/abityru24'
-global.sgh = 'https://github.com/abituru'
-global.sgc = 'https://chat.whatsapp.com/ERrRJ18SMI20NZbYvq7E3w'
-global.sdc = 'wa.me/6288232154376'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/K7yhLt3v0XFKwu8ZHlyVwY'
+global.sdc = 'wa.me/6283818409283'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083812737630'
+global.pdana = -'
 global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '083812737630'
-global.ppulsa2 = '088232154376'
+global.pgopay = '083818409283'
+global.ppulsa = '-'
+global.ppulsa2 = '083818409283'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '48459063898'
-global.nomorown = '6288232154376'
-global.namebot = 'Yukino Bot'
-global.nameown = 'AbiXynz'
+global.nomorbot = '24106395116'
+global.nomorown = '6283818409283'
+global.namebot = 'Hegia Bot'
+global.nameown = 'HEGIA'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['48459063898'],
-  ['48459063898'],
-  ['6288232154376'],
-  ['6288232154376', '❦ abiXynz', true]
+  ['6283818409283'],
+  ['6283818409283'],
+  ['6283818409283'],
+  ['6283818409283', '❦ HEGIA', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 YUKINO BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘YUKINO BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ YUKINO'
+global.wm = '                「HEGIA BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HEGIA BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ HEGIA'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ YUKINO Whatsapp | By ${global.nameown}`
-global.author = '                「 YUKINO BOT あ⁩ 」'
+global.titlebot = `⫹⫺ HEGIA Whatsapp | By ${global.nameown}`
+global.author = '                「 HEGIA BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
